@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Let me introduce myself
+
+Hi, I am Keejuneman
+I'm a AI data scientist using python
+I'm still a inexperienced developer
+plz think it's cute
+
+
 <!--
 **keejuneman/keejuneman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
