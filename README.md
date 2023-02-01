@@ -9,6 +9,14 @@ I'm still a inexperienced developer
 
 plz think it's cute
 
+### I can...
+
+- Korean
+- Engilsh
+- Python
+- SQL
+- html
+- css
 
 <!--
 **keejuneman/keejuneman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
